@@ -18,8 +18,8 @@
           </option>
           <option name="logo_enabled" value="true">
             <options>
-              <option name="logo_url" value="story_content\5gPd3s7Y5Zv_DX1024_DY1024.jpg" />
-              <option name="html5_logo_url" value="mobile/66YZ3flsfF4.jpg" />
+              <option name="logo_url" value="story_content\5pbfP9QJQVX_DX1024_DY1024.jpg" />
+              <option name="html5_logo_url" value="mobile/5rvRKxEDt4q.jpg" />
             </options>
           </option>
           <option name="sidebar_enabled" value="true">
@@ -1221,61 +1221,61 @@
   </colorschemes>
   <string_tables>
     <string_table name="pxabnsnfns01011100101">
-      <string id="acc_active">active</string>
-      <string id="check_include">Check to include</string>
-      <string id="clear">Clear and return to menu</string>
-      <string id="close">Close</string>
-      <string id="acc_closed_captions">Closed captions.</string>
-      <string id="continue">Continue</string>
-      <string id="continueresponsive">Continue</string>
-      <string id="exit">Exit</string>
+      <string id="acc_active">aktiv</string>
+      <string id="check_include">Merk av for å inkludere</string>
+      <string id="clear">Tøm, og gå tilbake til Meny</string>
+      <string id="close">Lukk</string>
+      <string id="acc_closed_captions">Teksting. Trykk Mellomrom for å slå av eller på tekstinga.</string>
+      <string id="continue">Fortsett</string>
+      <string id="continueresponsive">Fortsett</string>
+      <string id="exit">Avslutt</string>
       <string id="filter">Filter</string>
-      <string id="finish">FINISH</string>
-      <string id="acc_finish">finish</string>
-      <string id="definition">Definition</string>
-      <string id="acc_definition">definition</string>
-      <string id="glossary">Glossary</string>
-      <string id="terms">Terms</string>
-      <string id="action">Action</string>
-      <string id="keyboardshortcuts">Keyboard Shortcuts</string>
-      <string id="shortcuthelp">List keyboard shortcuts</string>
-      <string id="shortcut">Shortcut</string>
-      <string id="togglezoom">Switch zoom modes</string>
-      <string id="outline">Menu</string>
-      <string id="disabled_orientation">Please rotate your device</string>
-      <string id="next">NEXT</string>
-      <string id="acc_next">next</string>
-      <string id="transcript_chk">Notes</string>
-      <string id="transcript">Notes</string>
+      <string id="finish">AVSLUTT</string>
+      <string id="acc_finish">avslutt</string>
+      <string id="definition">Definisjon</string>
+      <string id="acc_definition">definisjon</string>
+      <string id="glossary">Ordliste</string>
+      <string id="terms">Søkeord</string>
+      <string id="action">Handling</string>
+      <string id="keyboardshortcuts">Hurtigtaster</string>
+      <string id="shortcuthelp">Vis hurtigtaster</string>
+      <string id="shortcut">Snarvei</string>
+      <string id="togglezoom">Bytt zoom-modus</string>
+      <string id="outline">Meny</string>
+      <string id="disabled_orientation">Roter enheten din</string>
+      <string id="next">NESTE</string>
+      <string id="acc_next">neste</string>
+      <string id="transcript_chk">Merknader</string>
+      <string id="transcript">Merknader</string>
       <string id="bio">Bio</string>
-      <string id="more_info">More info</string>
-      <string id="closed_captions">Captions</string>
+      <string id="more_info">Mer informasjon</string>
+      <string id="closed_captions">Teksting</string>
       <string id="acc_pause">pause</string>
-      <string id="acc_play">play</string>
-      <string id="send_an_email">Send an email</string>
-      <string id="prev">PREV</string>
-      <string id="acc_previous">previous</string>
-      <string id="question_list">Question List</string>
-      <string id="acc_replay">replay</string>
-      <string id="resources">Resources</string>
-      <string id="acc_resources">resources</string>
-      <string id="restart">Restart</string>
-      <string id="resume">Resume</string>
-      <string id="acc_search_input">search</string>
-      <string id="search_toggle">Search</string>
-      <string id="sidebar_toggle">Sidebar Toggle</string>
-      <string id="desktop_start">Start Course</string>
-      <string id="mobile_start">Start Course</string>
-      <string id="search">Search...</string>
-      <string id="search_in">Search in:</string>
-      <string id="search_results">Search Results</string>
-      <string id="acc_skipnavigation">Back to top</string>
-      <string id="slide_text_chk">Slide Text</string>
-      <string id="submitall">SUBMIT ALL</string>
-      <string id="acc_submitall">submit all</string>
-      <string id="submit">SUBMIT</string>
-      <string id="acc_submit">submit</string>
-      <string id="acc_volume">volume</string>
+      <string id="acc_play">spill av</string>
+      <string id="send_an_email">Send en e-post</string>
+      <string id="prev">FORRIGE</string>
+      <string id="acc_previous">forrige</string>
+      <string id="question_list">Spørsmålsliste</string>
+      <string id="acc_replay">spill av på nytt</string>
+      <string id="resources">Ressurser</string>
+      <string id="acc_resources">ressurser</string>
+      <string id="restart">Start på nytt</string>
+      <string id="resume">Fortsett</string>
+      <string id="acc_search_input">søk</string>
+      <string id="search_toggle">Søk</string>
+      <string id="sidebar_toggle">Utvid/skjul sidefelt</string>
+      <string id="desktop_start">Start kurset</string>
+      <string id="mobile_start">Start kurset</string>
+      <string id="search">Søk...</string>
+      <string id="search_in">Søk i:</string>
+      <string id="search_results">Søkeresultater</string>
+      <string id="acc_skipnavigation">Tilbake til toppen</string>
+      <string id="slide_text_chk">Lysbildetekst</string>
+      <string id="submitall">SEND INN ALLE</string>
+      <string id="acc_submitall">send inn alle</string>
+      <string id="submit">SEND</string>
+      <string id="acc_submit">send</string>
+      <string id="acc_volume">volum</string>
     </string_table>
   </string_tables>
   <fonts>
